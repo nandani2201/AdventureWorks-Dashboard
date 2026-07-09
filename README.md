@@ -1,15 +1,16 @@
 # Sales Dashboard – Power BI (AdventureWorks)
 An interactive multi-page Power BI dashboard analyzing sales, customer, and product performance using the AdventureWorks dataset (2019–2020).
 
-##📊 Dashboard Preview
-##Sales Overview
-![Sales Dashboard](1_png.png)
+📊 Dashboard Preview
 
-##Customer Insights
+Sales Overview
+![Sales Dashboard](1.png.png)
+
+Product Insights
 ![Product Dashboard](2.png.png)
 
-##Product Analysis
-![Customer Dashboard](3_png.png)
+Customer Analysis
+![Customer Dashboard](3.png.png)
 
 Key Metrics
 
